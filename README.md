@@ -1,4 +1,4 @@
-### Olá eu sou Rayan Ramos 👋
+### Olá eu sou KB Péllisser Kwaii 👋
 - 🔭 Cursando Ciências da Computação
 - 🚀 Finalizando Segundo Semestre
 - 💬 Contate-me: rayanferreiro@gmail.com
