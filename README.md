@@ -1,6 +1,6 @@
 ### Olá eu sou KB Péllisser Kwaii 👋
 - 🔭 Cursando Ciências da Computação
-- 🚀 Finalizando Segundo Semestre
+- 🚀 3/8
 - 💬 Contate-me: rayanferreiro@gmail.com
 - ♒ Signo: Aquariano
 - 😄 Pronomes: Ele/Dela
