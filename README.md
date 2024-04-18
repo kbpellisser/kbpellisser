@@ -3,7 +3,6 @@
 - 🚀 3/8
 - 💬 Contate-me: rayanferreiro@gmail.com
 - ♒ Signo: Aquariano
-- 😄 Pronomes: Ele/Dela
 ### Sociais
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
