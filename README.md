@@ -1,4 +1,4 @@
-### Olá eu sou KB Péllisser Kwaii 👋
+### Eu sou Rayan Ramos da Silva Nestor 👋
 - 🔭 Cursando Ciências da Computação
 - 🚀 3/8
 - 💬 Contate-me: rayanferreiro@gmail.com
