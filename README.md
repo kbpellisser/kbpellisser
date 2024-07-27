@@ -1,6 +1,6 @@
 ### Eu sou Rayan Ramos da Silva Nestor 👋
-- 🔭 Cursando Ciências da Computação
-- 🚀 3/8
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
+- 🚀 2/4
 - 💬 Contate-me: rayanferreiro@gmail.com
 - ♒ Signo: Aquariano
 ### Sociais
