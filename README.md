@@ -1,7 +1,7 @@
 ### Eu sou Rayan Ramos da Silva Nestor 👋
 - 🔧 Quality Assurance At Lado Leste
 - 🔧 Dev Júnior At Metrópole
-- 🔧 Dev Leste Group 
+- 🔧 Dev At Leste Group 
 - 💬 Contate-me: rayanferreiro@gmail.com
 - ♒ Signo: Aquariano
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
