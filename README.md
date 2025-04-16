@@ -1,6 +1,8 @@
-- 🔧 **Quality Assurance** na **Lado Leste**  
-- 🔧 **Desenvolvedor** na **Fronteira Leste**  
-- 🔧 **Desenvolvedor** no **Leste Group**  
+- 🔧 **Quality Assurance** at **Lado Leste**  
+- 🔧 **Desenvolvedor** at **Fronteira Leste**  
+- 🔧 **Desenvolvedor** at **Leste Group**  
+- 🔧 **CTO** at **Glory Group**  
+
 - 📫 **Contate-me:** [rayanferreiro@gmail.com](mailto:rayanferreiro@gmail.com)  
 - 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas  
 - 🚀 **Progresso no curso:** 3/4  
