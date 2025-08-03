@@ -1,5 +1,3 @@
-- 🔧 **Quality Assurance** at **Lado Leste**  
-- 🔧 **Desenvolvedor** at **Fronteira Leste**  
 - 🔧 **Desenvolvedor** at **Leste Group**  
 - 🔧 **CTO** at **Glory Group**
 
@@ -16,4 +14,4 @@
 
 - 🎮 Gamer apaixonado por FPS e RPG.  
 - 📖 Amo explorar livros e artigos sobre tecnologia e inovação.  
-- 🌍 Sonho em trabalhar com projetos internacionais. 
+- 🌍 Em busca de projetos internacionais. 
