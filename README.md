@@ -2,8 +2,6 @@
 *  **CTO** at **Crow Tale**  
 *  **Analista e Desenvolvedor de Sistemas**  
 *  Especializado em **Back-end**, **organização e gerenciamento de servidores**, **otimização de sistemas** e **infraestrutura escalável**  
-
-*  Programador apaixonado por **FPS e RPG**, trazendo a mesma dedicação dos games para os projetos  
 *  Em busca de **colaborações internacionais** e **desafios globais**  
 *  Experiência em **estruturas de servidores complexos**, **otimização de performance**, **integração de sistemas** e **automação de processos**  
 
