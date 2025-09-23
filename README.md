@@ -5,7 +5,6 @@
 *  Em busca de **colaborações internacionais** e **desafios globais**  
 *  Experiência em **estruturas de servidores complexos**, **otimização de performance**, **integração de sistemas** e **automação de processos**  
 
-* Tech Stack:
 * **Linguagens & Frameworks**  
 `Lua` · `Node.js` · `JavaScript` · `TypeScript` · `Python` · `SQL` · `PERL` · `C#` 
 
