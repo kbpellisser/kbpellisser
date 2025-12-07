@@ -1,6 +1,6 @@
 *  **Analista e Desenvolvedor de Sistemas**  
 *  **Software Engineer**
-*  **Developer At Openkore Latam Ofc**
+*  **Developer At Openkore Latam Oficial**
 *  **Ragnarok Ascension**
 *  Especializado em **Back-end**, **organização e gerenciamento de servidores**, **otimização de sistemas** e **infraestrutura escalável**  
 *  Em busca de **colaborações internacionais** e **desafios globais**  
